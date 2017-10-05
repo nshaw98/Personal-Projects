@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+
+#Game I worked on to understand how to make a simple game program using Python, PyGame, and Linux terminal on the Raspberry Pi.
+#The game asks you to click and not to click on certain colors/shapes within a certain timeframe. 
+#If done correctly, you will receive a point. Credits to Andy Balaam for the game creating tutorial and source code. https://www.youtube.com/user/ajbalaam
+
+
 import pygame
 import sys
 import random
